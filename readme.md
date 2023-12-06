@@ -1,9 +1,9 @@
-#Somatório de Divisíveis por 3 ou 5
+# Somatório de Divisíveis por 3 ou 5
 
 Este é um projeto simples que demonstra o cálculo do somatório de números inteiros divisíveis por 3 ou 5, com uma interface de usuário básica usando HTML, CSS e JavaScript.
 
 
-##Como usar
+## Como usar
 
 para clonar o projeto, digite git clone https://github.com/joseedivandro/divisiveis.git no terminal de algum local do seu computador
 
@@ -24,7 +24,11 @@ Visualize o Resultado:
 
 O resultado do somatório será exibido abaixo do botão.
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 index.html: Contém a estrutura HTML da página, incluindo a interface do usuário.
 main.js: Implementa a lógica da função de cálculo e a interação com a interface do usuário.
 styles.css: Aplica estilos à página HTML para uma experiência visual mais agradável.
+
+![opera_cvAF458gVv](https://github.com/joseedivandro/divisiveis/assets/64916664/52151959-471f-411a-89ac-8027a0c7b9cf)
+
+
